@@ -7,3 +7,4 @@ details, I will add you as a GitHub repository contributor.
 ## ☎️ Contact Me:
 
 <a href = https://www.linkedin.com/in/codewithusama/ target="_blank"><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='45'></a>
+<a href = "mailto:epiicuree@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='45'></a>
